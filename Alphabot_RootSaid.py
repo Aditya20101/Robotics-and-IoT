@@ -1,3 +1,5 @@
+#code for alphabot kit with Raspberry Pi consisting of features like-
+#remote control from an android application(Rootsaid); real-time camera feed, RGB lights.
 import RPi.GPIO as GPIO
 import time
 import socket
